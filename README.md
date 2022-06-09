@@ -1,9 +1,9 @@
-This is a **boilerplate** repo for a machine-learning project involving **Time Series forecasting**.
+This is a **boilerplate** repo for a machine-learning project involving **Big Dataset Images**.
 
 In particular
 
-- It provides a **cross-validation framework** to ensure model are tested thoroughly and without data leakage
-- It is agnostic of the type of model involved
+- It provides a structure template for loading big dataset in **tensorflow** to ensure model can be trained with all data.
+- It is agnostic of the type of tensorflow model involved
 - It is well suited for short research projects, typical of few-weeks coding bootcamps such as Le Wagon DataScience
 
 # Detailed package workflow
